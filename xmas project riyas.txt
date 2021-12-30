@@ -1,0 +1,10 @@
+a= int(input("enter the number of rows :"))
+i=1
+for i in range (a):
+	print(" " * (a-i) + "* " * i)
+for j in range(3):
+    print("      ***"  *1)
+print("\n <~~Merry Christmas~~>")
+print("\n                      by,")
+print("                            Muhammed Riyas M")
+print("                            S1 ME")
